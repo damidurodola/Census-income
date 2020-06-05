@@ -8,4 +8,5 @@ Tools
 - Pandas
 - MathPlot lib
 
+run `pip3 install -r requirements.txt` to install dependencies
 Run app.py to see result.
